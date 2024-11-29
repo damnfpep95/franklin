@@ -1,145 +1,151 @@
 #EXTM3U
 #EXTINF:-1,A&E HD
-http://5.5.5.2:8000/play/a0bm/index.m3u8
+http://5.5.5.2:8000/play/a0e5/index.m3u8
 #EXTINF:-1,AMC HD
-http://5.5.5.2:8000/play/a0cy/index.m3u8
+http://5.5.5.2:8000/play/a0eq/index.m3u8
 #EXTINF:-1,ATRES SERIES HD
-http://5.5.5.2:8000/play/a0ck/index.m3u8
+http://5.5.5.2:8000/play/a0et/index.m3u8
 #EXTINF:-1,AXN HD
-http://5.5.5.2:8000/play/a0bp/index.m3u8
-#EXTINF:-1,AZ Cinema HD
-http://5.5.5.2:8000/play/a0d6/index.m3u8
+http://5.5.5.2:8000/play/a0e8/index.m3u8
+#EXTINF:-1,Adult Swim HD
+http://5.5.5.2:8000/play/a0f0/index.m3u8
 #EXTINF:-1,America TV HD
-http://5.5.5.2:8000/play/a09c/index.m3u8
+http://5.5.5.2:8000/play/a0dz/index.m3u8
 #EXTINF:-1,Animal Planet HD
-http://5.5.5.2:8000/play/a0d9/index.m3u8
+http://5.5.5.2:8000/play/a0f6/index.m3u8
+#EXTINF:-1,CHV HD
+http://5.5.5.2:8000/play/a0dq/index.m3u8
 #EXTINF:-1,Cartoon Network HD
-http://5.5.5.2:8000/play/a0d2/index.m3u8
+http://5.5.5.2:8000/play/a0ev/index.m3u8
 #EXTINF:-1,Cinecanal HD
-http://5.5.5.2:8000/play/a0cx/index.m3u8
+http://5.5.5.2:8000/play/a0dh/index.m3u8
 #EXTINF:-1,Cinemax HD
-http://5.5.5.2:8000/play/a0cl/index.m3u8
+http://5.5.5.2:8000/play/a0fj/index.m3u8
 #EXTINF:-1,Clover HD
-http://5.5.5.2:8000/play/a0bx/index.m3u8
+http://5.5.5.2:8000/play/a0fc/index.m3u8
 #EXTINF:-1,Comedy Central HD
-http://5.5.5.2:8000/play/a0cm/index.m3u8
-#EXTINF:-1,DHE HD
-http://5.5.5.2:8000/play/a09p/index.m3u8
+http://5.5.5.2:8000/play/a0eu/index.m3u8
 #EXTINF:-1,Discovery H&H HD
-http://5.5.5.2:8000/play/a0a2/index.m3u8
+http://5.5.5.2:8000/play/a0dr/index.m3u8
 #EXTINF:-1,Discovery HD
-http://5.5.5.2:8000/play/a09q/index.m3u8
+http://5.5.5.2:8000/play/a0do/index.m3u8
 #EXTINF:-1,Discovery Kids HD
-http://5.5.5.2:8000/play/a0a1/index.m3u8
+http://5.5.5.2:8000/play/a0e2/index.m3u8
 #EXTINF:-1,Discovery Theater HD
-http://5.5.5.2:8000/play/a0a3/index.m3u8
+http://5.5.5.2:8000/play/a0e3/index.m3u8
 #EXTINF:-1,Discovery World HD
-http://5.5.5.2:8000/play/a0cw/index.m3u8
+http://5.5.5.2:8000/play/a0de/index.m3u8
 #EXTINF:-1,Disney HD
-http://5.5.5.2:8000/play/a0c9/index.m3u8
+http://5.5.5.2:8000/play/a0dd/index.m3u8
 #EXTINF:-1,E! HD
-http://5.5.5.2:8000/play/a098/index.m3u8
+http://5.5.5.2:8000/play/a0fh/index.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://5.5.5.2:8000/play/a0by/index.m3u8
+http://5.5.5.2:8000/play/a0ff/index.m3u8
 #EXTINF:-1,ESPN 3 HD
-http://5.5.5.2:8000/play/a0cc/index.m3u8
-#EXTINF:-1,ESPN 4 HD
-http://5.5.5.2:8000/play/a0a8/index.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://5.5.5.2:8000/play/a0cz/index.m3u8
+http://5.5.5.2:8000/play/a0du/index.m3u8
+#EXTINF:-1,ESPN 4HD
+http://5.5.5.2:8000/play/a0dt/index.m3u8
+#EXTINF:-1,ESPN 5HD
+http://5.5.5.2:8000/play/a0ea/index.m3u8
+#EXTINF:-1,ESPN 6HD
+http://5.5.5.2:8000/play/a0dv/index.m3u8
+#EXTINF:-1,ESPN 7HD
+http://5.5.5.2:8000/play/a0ec/index.m3u8
 #EXTINF:-1,ESPN HD
-http://5.5.5.2:8000/play/a0c3/index.m3u8
+http://5.5.5.2:8000/play/a0eh/index.m3u8
+#EXTINF:-1,ESPN Premium HD
+http://5.5.5.2:8000/play/a0go/index.m3u8
 #EXTINF:-1,El Gourmet HD
-http://5.5.5.2:8000/play/a0cp/index.m3u8
-#EXTINF:-1,FOX Sports 2 HD
-http://5.5.5.2:8000/play/a0a9/index.m3u8
+http://5.5.5.2:8000/play/a0f5/index.m3u8
 #EXTINF:-1,FX HD
-http://5.5.5.2:8000/play/a0ag/index.m3u8
+http://5.5.5.2:8000/play/a0eg/index.m3u8
 #EXTINF:-1,Food Network HD
-http://5.5.5.2:8000/play/a09b/index.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://5.5.5.2:8000/play/a0cd/index.m3u8
-#EXTINF:-1,GOLPERU HD
-http://5.5.5.2:8000/play/a09f/index.m3u8
+http://5.5.5.2:8000/play/a0fm/index.m3u8
 #EXTINF:-1,GolTV HD
-http://5.5.5.2:8000/play/a099/index.m3u8
-#EXTINF:-1,Golden HD
-http://5.5.5.2:8000/play/a094/index.m3u8
+http://5.5.5.2:8000/play/a0fi/index.m3u8
 #EXTINF:-1,HBO 2 HD
-http://5.5.5.2:8000/play/a0d7/index.m3u8
+http://5.5.5.2:8000/play/a0f1/index.m3u8
 #EXTINF:-1,HBO Family HD
-http://5.5.5.2:8000/play/a09s/index.m3u8
+http://5.5.5.2:8000/play/a0f2/index.m3u8
 #EXTINF:-1,HBO HD
-http://5.5.5.2:8000/play/a0d0/index.m3u8
+http://5.5.5.2:8000/play/a0dj/index.m3u8
 #EXTINF:-1,HBO POP HD
-http://5.5.5.2:8000/play/a0bt/index.m3u8
+http://5.5.5.2:8000/play/a0dl/index.m3u8
 #EXTINF:-1,HBO XTREME HD
-http://5.5.5.2:8000/play/a09t/index.m3u8
+http://5.5.5.2:8000/play/a0f3/index.m3u8
 #EXTINF:-1,HOLA TV HD
-http://5.5.5.2:8000/play/a0ca/index.m3u8
+http://5.5.5.2:8000/play/a0ep/index.m3u8
 #EXTINF:-1,History 2 HD
-http://5.5.5.2:8000/play/a09r/index.m3u8
+http://5.5.5.2:8000/play/a0gp/index.m3u8
 #EXTINF:-1,History Channel HD
-http://5.5.5.2:8000/play/a0bl/index.m3u8
+http://5.5.5.2:8000/play/a0e4/index.m3u8
 #EXTINF:-1,ID HD
-http://5.5.5.2:8000/play/a0cn/index.m3u8
+http://5.5.5.2:8000/play/a0ez/index.m3u8
 #EXTINF:-1,Kanal D Drama HD
-http://5.5.5.2:8000/play/a0d1/index.m3u8
+http://5.5.5.2:8000/play/a0es/index.m3u8
+#EXTINF:-1,La Red HD
+http://5.5.5.2:8000/play/a0fl/index.m3u8
 #EXTINF:-1,Las Estrellas HD
-http://5.5.5.2:8000/play/a09o/index.m3u8
+http://5.5.5.2:8000/play/a0ek/index.m3u8
 #EXTINF:-1,Latina HD
-http://5.5.5.2:8000/play/a09d/index.m3u8
+http://5.5.5.2:8000/play/a0e0/index.m3u8
+#EXTINF:-1,Lolly Kids HD
+http://5.5.5.2:8000/play/a0gd/index.m3u8
 #EXTINF:-1,Love Nature HD
-http://5.5.5.2:8000/play/a09l/index.m3u8
+http://5.5.5.2:8000/play/a0gf/index.m3u8
+#EXTINF:-1,MEGA HD
+http://5.5.5.2:8000/play/a0dc/index.m3u8
 #EXTINF:-1,MTV 00s
-http://5.5.5.2:8000/play/a0cj/index.m3u8
+http://5.5.5.2:8000/play/a0gj/index.m3u8
+#EXTINF:-1,MTV HD
+http://5.5.5.2:8000/play/a0ei/index.m3u8
 #EXTINF:-1,MTV LIVE HD
-http://5.5.5.2:8000/play/a0a7/index.m3u8
+http://5.5.5.2:8000/play/a0gb/index.m3u8
 #EXTINF:-1,Movistar Deportes HD
-http://5.5.5.2:8000/play/a092/index.m3u8
+http://5.5.5.2:8000/play/a0gr/index.m3u8
+#EXTINF:-1,NTV
+http://5.5.5.2:8000/play/a0el/index.m3u8
 #EXTINF:-1,Nat Geo HD
-http://5.5.5.2:8000/play/a0cv/index.m3u8
+http://5.5.5.2:8000/play/a0eo/index.m3u8
 #EXTINF:-1,Nick HD
-http://5.5.5.2:8000/play/a0c1/index.m3u8
-#EXTINF:-1,Nick Music HD
-http://5.5.5.2:8000/play/a0ad/index.m3u8
+http://5.5.5.2:8000/play/a0dm/index.m3u8
 #EXTINF:-1,Paramount HD
-http://5.5.5.2:8000/play/a0d3/index.m3u8
+http://5.5.5.2:8000/play/a0dy/index.m3u8
 #EXTINF:-1,Pasiones HD
-http://5.5.5.2:8000/play/a0c8/index.m3u8
-#EXTINF:-1,RCN HD
-http://5.5.5.2:8000/play/a0ai/index.m3u8
+http://5.5.5.2:8000/play/a0en/index.m3u8
+#EXTINF:-1,Playboy HD
+http://5.5.5.2:8000/play/a0ee/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
-http://5.5.5.2:8000/play/a0bz/index.m3u8
+http://5.5.5.2:8000/play/a0fg/index.m3u8
 #EXTINF:-1,STAR CHANNEL HD
-http://5.5.5.2:8000/play/a0a5/index.m3u8
+http://5.5.5.2:8000/play/a0gh/index.m3u8
 #EXTINF:-1,STAR TVE HD
-http://5.5.5.2:8000/play/a0d5/index.m3u8
+http://5.5.5.2:8000/play/a0ex/index.m3u8
 #EXTINF:-1,Sony HD
-http://5.5.5.2:8000/play/a0bn/index.m3u8
+http://5.5.5.2:8000/play/a0e7/index.m3u8
 #EXTINF:-1,Space HD
-http://5.5.5.2:8000/play/a0bq/index.m3u8
+http://5.5.5.2:8000/play/a0dg/index.m3u8
+#EXTINF:-1,Stingray Concerts HD
+http://5.5.5.2:8000/play/a0fk/index.m3u8
 #EXTINF:-1,Studio Universal HD
-http://5.5.5.2:8000/play/a0d4/index.m3u8
+http://5.5.5.2:8000/play/a0ew/index.m3u8
 #EXTINF:-1,Sun Channel HD
-http://5.5.5.2:8000/play/a0a0/index.m3u8
+http://5.5.5.2:8000/play/a0e1/index.m3u8
 #EXTINF:-1,TNT HD
-http://5.5.5.2:8000/play/a0cb/index.m3u8
+http://5.5.5.2:8000/play/a0ds/index.m3u8
+#EXTINF:-1,TNT Novelas HD
+http://5.5.5.2:8000/play/a0e9/index.m3u8
 #EXTINF:-1,TNT Series HD
-http://5.5.5.2:8000/play/a0af/index.m3u8
-#EXTINF:-1,TRUTV HD
-http://5.5.5.2:8000/play/a0co/index.m3u8
+http://5.5.5.2:8000/play/a0ef/index.m3u8
+#EXTINF:-1,TNT Sports Premiun HD
+http://5.5.5.2:8000/play/a0di/index.m3u8
 #EXTINF:-1,TV+ HD
-http://5.5.5.2:8000/play/a0ct/index.m3u8
-#EXTINF:-1,Teen Nick HD
-http://5.5.5.2:8000/play/a09k/index.m3u8
-#EXTINF:-1,Telehit HD
-http://5.5.5.2:8000/play/a095/index.m3u8
-#EXTINF:-1,Travelxp HD
-http://5.5.5.2:8000/play/a09y/index.m3u8
+http://5.5.5.2:8000/play/a0em/index.m3u8
+#EXTINF:-1,TVN HD
+http://5.5.5.2:8000/play/a0dp/index.m3u8
 #EXTINF:-1,TyC Sports HD
-http://5.5.5.2:8000/play/a09e/index.m3u8
+http://5.5.5.2:8000/play/a0fo/index.m3u8
 #EXTINF:-1,UNIVERSAL CHANNEL HD
-http://5.5.5.2:8000/play/a0a6/index.m3u8
+http://5.5.5.2:8000/play/a0ga/index.m3u8
 #EXTINF:-1,Warner Channel HD
-http://5.5.5.2:8000/play/a0bo/index.m3u8
+http://5.5.5.2:8000/play/a0df/index.m3u8
